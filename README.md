@@ -1,2 +1,14 @@
-# Portfolio
-My Personal Portfolio I will count everything that I have learned so far. I will count everything that I have learned. I will count everything that I have done so far. I will also count my skills.
+# Portfolio Responsive Complete
+## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
+### Portfolio Responsive Complete
+
+- Responsive Personal Portfolio Website HTML CSS & JavaScript.
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+
+![preview img](/preview.png)
+
